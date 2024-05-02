@@ -11,7 +11,7 @@ This guide provides instructions on how to navigate and utilize the features of 
 - **URL to Access**: [Link to the Mediation Hub platform](https://marinehaziza.bubbleapps.io/)
 - **Test Credentials**: 
 Username: `review@googlehackathon.com`   
-Password: send email at `marine.mindfulai@gmail.com`
+Password: send email at marine.mindfulai@gmail.com
 
   - Use these credentials to log in and start exploring the platform's features.    
   - This account will be pre-loaded with conversations in English, French, and Spanish to demonstrate the capabilities of the model across different languages and use-cases.
